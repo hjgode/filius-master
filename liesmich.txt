@@ -1,0 +1,10 @@
+Die Zip Datei inkl. aller Verzeichnisse in eine Verzeichnis entpacken. Zum Beispiel c:\filius.
+
+Dann kann Filius in einem CMD Fenster über die Eingabe von filius-start.cmd gestartet werden.
+
+Dokumentation im Verzeichnis info. Beispiele im Verzeichnis beispiele.
+
+Konfiguration über filius.ini und %USERHOME%/.filius/konfig.ini möglich.
+
+Anleitungen unter https://www.lernsoftware-filius.de/Begleitmaterial
+
