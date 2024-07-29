@@ -1,3 +1,7 @@
+This is fork of filius as it did not run on my Windows 10 PC
+The java code depended a lot on external files although Maven did pack resources into the jar. I rewrote the code so it uses the jar if running from the jar of the files, if running in a Java IDE like VS Code plus Java extensions.
+Based on Filius 2.6.0
+
 # Filius - Simple Network Simulation
 Filius is a network simulator for educational purpose
 
