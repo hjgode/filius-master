@@ -1,0 +1,32 @@
+export.png
+----------
+Icon Pack: Human-O2
+Designer: schollidesign
+License: GNU/GPL 
+http://findicons.com
+
+Text-x-generic_with_pencil.svg / dokumodus.png
+-------------
+Designer: The people from the Tango! project
+License: Creative Commons Attribution
+https://commons.wikimedia.org/wiki/File:Text-x-generic_with_pencil.svg
+
+add.png / add_small.png
+-----------------------
+Icon Pack: Soft
+Designer: Asher
+License: Creative Commons Attribution (by) 
+http://findicons.com
+
+download.png / download_small.png
+-----------------------
+Icon Pack: Soft
+Designer: Asher
+License: Creative Commons Attribution (by) 
+http://findicons.com
+
+Nuvola_mimetypes_pdf.png / pdf_small.png
+-----------------------
+Designer: David Vignoni / ICON KING
+License: GNU GPL 2.1 or later
+https://commons.wikimedia.org/wiki/File:Nuvola_mimetypes_pdf.png
